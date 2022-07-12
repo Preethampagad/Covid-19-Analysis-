@@ -5,5 +5,4 @@ Performed data exploration in SQL Server on COVID 19 dataset taken from "Our Wor
 3) Total doese of Covid Vaccines administered
 4) Global Numbers
 
-Covid 19 Dashboard :
-[Click here](https://public.tableau.com/app/profile/preetham.m.pagad/viz/Covid19Analysis_16497718880740/Dashboard2)
+[Covid 19 Dashboard](https://public.tableau.com/app/profile/preetham.m.pagad/viz/Covid19Analysis_16497718880740/Dashboard2)
