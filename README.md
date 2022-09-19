@@ -1,5 +1,9 @@
 ## Covid 19 Analysis
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96490650/191075802-f85ac0c5-6fdf-482e-8f57-ee4d4aa5ba9a.jpg" />
+</p>
+
 * Performed data exploration in MS SQL Server on COVID 19 dataset taken from "Our World in Data" and examined Covid 19 situation between Feb 2020 till Mar 2022
 * Built Interactive Tableau Dashboard to display data findings
 * Total cases reported globally was 496 million with a death rate of 1.24
