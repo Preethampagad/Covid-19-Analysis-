@@ -13,4 +13,4 @@ created views to measure individual KPI’s.
 * Used the data from the executed queries and imported it into tableau for visualizations. Built Interactive
 dashboard to display data findings
 
-[Covid 19 Dashboard](https://public.tableau.com/app/profile/preetham.m.pagad/viz/Covid19Analysis_16497718880740/Dashboard2)
+[Covid 19 Dashboard](https://public.tableau.com/views/Covid19Analysis_16497718880740/Dashboard24?:language=en-US&:display_count=n&:origin=viz_share_link)
